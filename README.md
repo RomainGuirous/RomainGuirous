@@ -43,7 +43,7 @@
 ## 🤝 Me contacter
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/romain-guirous-3274bb29b/)
-- 📫 romain.guirous@gmail.com
+- 📫 romaing_59@hotmail.fr
 - 📍 Basé à Lille
 
 ---
