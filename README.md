@@ -2,17 +2,18 @@
 
 🎓 Actuellement en formation **Data Engineer** chez Simplon, je suis à la recherche d’une **alternance à partir de septembre 2025**, pour une durée de 18 mois (rythme 3 semaines en entreprise / 1 semaine en formation).
 
-💻 Passionné par la donnée et les systèmes, je me forme aux outils du Data Engineering tout en menant des projets concrets qui m’aident à consolider mes compétences techniques.
+💻 Passionné par la donnée et les systèmes, je me forme aux outils du milieu de la data tout en menant des projets concrets qui m’aident à consolider mes compétences techniques.
 
 ---
 
 ## 🚀 Compétences actuelles
 
 - **Langages** : Python, SQL (MySQL, PostgreSQL, SQLite), PHP, HTML, CSS, JS (bases)
-- **Librairies/Data** : Pandas, Numpy, Matplotlib, SqlAlchemy, PyArrow, Requests
+- **Librairies/Data** : Pandas, Numpy, SqlAlchemy, PyArrow, Requests
 - **ETL/Orchestration** : Spark (bases), Talend (aperçu)
 - **SGBD** : MySQL, SQLite, PostgreSQL
 - **Outils & Méthodo** : Git / GitHub, GitFlow, POO, Scrum, Agile
+- **Visualisation** : Matplotlib, PowerBI, Streamlit
 
 🛠️ En cours d’apprentissage :
 - NoSQL (MongoDB), Cloud (Azure, AWS, GCP), HDFS
